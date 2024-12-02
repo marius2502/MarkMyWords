@@ -30,7 +30,7 @@
     "@nestjs/platform-ws": "^6.7.2",
     "@nestjs/serve-static": "^1.0.1",
     "@nestjs/websockets": "^6.7.2",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.1.0",
     "jwt-decode": "^2.2.0",
     "mongoose": "^5.7.1",
